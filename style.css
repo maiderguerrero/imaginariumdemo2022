@@ -904,7 +904,7 @@ body #book-index #indice .col-main {
 @font-face {
     font-family: 'Daytona Pro Primary';
     src: url('fonts/DaytonaProPrimary-Bold.woff2') format('woff2');
-    font-weight: bold;
+    font-weight: 700;
     font-style: normal;
 }
 
