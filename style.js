@@ -102,12 +102,11 @@ __webpack_require__.r(__webpack_exports__);
 */
 const ckeStyles = [
 
-  {name: 'Título 01', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-1'}},
-  {name: 'Título 02', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-2'}},
-  {name: 'Título 03', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-3'}},
-  {name: 'Título 04', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-4'}},
-  {name: 'Título 05', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-5'}},
-	
+  {name: 'Título 01', type: 'widget', widget: 'h2', attributes: {'class': 'bck-title-1'}},
+  {name: 'Título 02', type: 'widget', widget: 'h2', attributes: {'class': 'bck-title-2'}},
+  {name: 'Título 03', type: 'widget', widget: 'h2', attributes: {'class': 'bck-title-3'}},
+  {name: 'Título 04', type: 'widget', widget: 'h2', attributes: {'class': 'bck-title-4'}},
+  {name: 'Título 05', type: 'widget', widget: 'h2', attributes: {'class': 'bck-title-5'}},
 
   {name: 'Caja 01', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-1'}},
   {name: 'Caja 02', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-2'}},
