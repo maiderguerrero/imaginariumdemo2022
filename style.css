@@ -999,12 +999,16 @@ body #book-index #indice .col-main {
     font-style: normal;
 }
 
+/*
+
 @font-face {
     font-family: 'Daytona Pro Primary';
     src: url('fonts/DaytonaProPrimary-CnBold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
 }
+
+*/
 
 @font-face {
     font-family: 'GoodDogPlain';
