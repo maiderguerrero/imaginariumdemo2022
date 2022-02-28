@@ -1201,6 +1201,12 @@ body {
 
 /*--------------------------------------AJUSTES ACTIVIDADES----------------------------------*/
 
+#actividad .workspace {
+  font-size: 20px;
+}
+
+/*Fill in the blanks*/
+
 .fillblanks-draggable-wrapper .response {
     margin: 2px;
     min-width: 100px;
@@ -1212,6 +1218,10 @@ body {
     cursor: pointer;
     -webkit-box-shadow: 3px 3px 0 0 #e3e3e3;
     box-shadow: 3px 3px 0 0 #e3e3e3;
+}
+
+.fillblanks-draggable-wrapper .response p {
+    font-size: 18px;
 }
 
 
