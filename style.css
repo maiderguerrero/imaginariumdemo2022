@@ -1232,6 +1232,10 @@ body {
     font-size: 18px;
 }
 
+#actividad .workspace.test .respuestas li {
+    width: 100%;
+}
+
 
    /************************
    * CSS AÑADIDO POR HTML *
