@@ -1160,7 +1160,7 @@ body {
 #actividad .content .workspace ul li .bck-ol-1 li {
     counter-increment: bck-li-counter;
     position: relative;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 
