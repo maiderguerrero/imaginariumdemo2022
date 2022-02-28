@@ -1,3 +1,5 @@
+/*Imaginarium demo - JS*/
+
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -99,9 +101,40 @@ __webpack_require__.r(__webpack_exports__);
 *   Array con la definición de los estilos para el editor de CKEditor
 */
 const ckeStyles = [
-  {name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: {'class': 'box-1'}},
-  {name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: {'class': 'box-2'}},
-  {name: 'Énfasis', element: 'span', attributes: {'class': 'bck-enfasis'}}
+
+  {name: 'Título 01', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-1'}},
+  {name: 'Título 02', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-2'}},
+  {name: 'Título 03', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-3'}},
+  {name: 'Título 04', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-4'}},
+  {name: 'Título 05', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-5'}},
+	
+
+  {name: 'Caja 01', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-1'}},
+  {name: 'Caja 02', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-2'}},
+  {name: 'Caja 03', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-3'}},
+  {name: 'Caja 04', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-4'}},
+  {name: 'Caja 05', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-5'}},
+
+  {name: 'Lista ordenada 01', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-ol-1'}},
+  {name: 'Lista ordenada 02', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-ol-2'}},
+  {name: 'Lista ordenada 03', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-ol-3'}},
+  {name: 'Lista ordenada 04', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-ol-4'}},
+  {name: 'Lista ordenada 05', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-ol-5'}},
+
+  {name: 'Lista desordenada 01', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-ul-1'}},
+  {name: 'Lista desordenada 02', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-ul-2'}},
+  {name: 'Lista desordenada 03', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-ul-3'}},
+  {name: 'Lista desordenada 04', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-ul-4'}},
+  {name: 'Lista desordenada 05', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-ul-5'}},
+
+
+  {name: 'Énfasis 01', element: 'span', attributes: {'class': 'bck-enfasis-1'}},
+  {name: 'Énfasis 02', element: 'span', attributes: {'class': 'bck-enfasis-2'}},
+  {name: 'Énfasis 03', element: 'span', attributes: {'class': 'bck-enfasis-3'}},
+  {name: 'Énfasis 04', element: 'span', attributes: {'class': 'bck-enfasis-4'}},
+  {name: 'Énfasis 05', element: 'span', attributes: {'class': 'bck-enfasis-5'}}
+
+
   // Añadir elementos CKEditor aquí.
 ];
 /* harmony default export */ __webpack_exports__["default"] = (ckeStyles);
