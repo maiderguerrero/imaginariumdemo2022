@@ -102,11 +102,11 @@ __webpack_require__.r(__webpack_exports__);
 */
 const ckeStyles = [
 
-  {name: 'Título 01', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-1'}},
-  {name: 'Título 02', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-2'}},
-  {name: 'Título 03', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-3'}},
-  {name: 'Título 04', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-4'}},
-  {name: 'Título 05', type: 'widget', widget: 'h3', attributes: {'class': 'bck-title-5'}},
+  {name: 'Título 01', element: 'h3', attributes: {'class': 'bck-title-1'}},
+  {name: 'Título 02', element: 'h3', attributes: {'class': 'bck-title-2'}},
+  {name: 'Título 03', element: 'h3', attributes: {'class': 'bck-title-3'}},
+  {name: 'Título 04', element: 'h3', attributes: {'class': 'bck-title-4'}},
+  {name: 'Título 05', element: 'h3', attributes: {'class': 'bck-title-5'}},
 
   {name: 'Caja 01', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-1'}},
   {name: 'Caja 02', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-2'}},
@@ -114,17 +114,17 @@ const ckeStyles = [
   {name: 'Caja 04', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-4'}},
   {name: 'Caja 05', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-5'}},
 
-  {name: 'Lista ordenada 01', type: 'widget', widget: 'ol', attributes: {'class': 'bck-ol-1'}},
-  {name: 'Lista ordenada 02', type: 'widget', widget: 'ol', attributes: {'class': 'bck-ol-2'}},
-  {name: 'Lista ordenada 03', type: 'widget', widget: 'ol', attributes: {'class': 'bck-ol-3'}},
-  {name: 'Lista ordenada 04', type: 'widget', widget: 'ol', attributes: {'class': 'bck-ol-4'}},
-  {name: 'Lista ordenada 05', type: 'widget', widget: 'ol', attributes: {'class': 'bck-ol-5'}},
+  {name: 'Lista ordenada 01', element: 'ol', attributes: {'class': 'bck-ol-1'}},
+  {name: 'Lista ordenada 02', element: 'ol', attributes: {'class': 'bck-ol-2'}},
+  {name: 'Lista ordenada 03', element: 'ol', attributes: {'class': 'bck-ol-3'}},
+  {name: 'Lista ordenada 04', element: 'ol', attributes: {'class': 'bck-ol-4'}},
+  {name: 'Lista ordenada 05', element: 'ol', attributes: {'class': 'bck-ol-5'}},
 
-  {name: 'Lista desordenada 01', type: 'widget', widget: 'ul', attributes: {'class': 'bck-ul-1'}},
-  {name: 'Lista desordenada 02', type: 'widget', widget: 'ul', attributes: {'class': 'bck-ul-2'}},
-  {name: 'Lista desordenada 03', type: 'widget', widget: 'ul', attributes: {'class': 'bck-ul-3'}},
-  {name: 'Lista desordenada 04', type: 'widget', widget: 'ul', attributes: {'class': 'bck-ul-4'}},
-  {name: 'Lista desordenada 05', type: 'widget', widget: 'ul', attributes: {'class': 'bck-ul-5'}},
+  {name: 'Lista desordenada 01', element: 'ul', attributes: {'class': 'bck-ul-1'}},
+  {name: 'Lista desordenada 02', element: 'ul', attributes: {'class': 'bck-ul-2'}},
+  {name: 'Lista desordenada 03', element: 'ul', attributes: {'class': 'bck-ul-3'}},
+  {name: 'Lista desordenada 04', element: 'ul', attributes: {'class': 'bck-ul-4'}},
+  {name: 'Lista desordenada 05', element: 'ul', attributes: {'class': 'bck-ul-5'}},
 
   {name: 'Énfasis 01', element: 'span', attributes: {'class': 'bck-enfasis-1'}},
   {name: 'Énfasis 02', element: 'span', attributes: {'class': 'bck-enfasis-2'}},
