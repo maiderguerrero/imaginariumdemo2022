@@ -126,7 +126,6 @@ const ckeStyles = [
   {name: 'Lista desordenada 04', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-ul-4'}},
   {name: 'Lista desordenada 05', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-ul-5'}},
 
-
   {name: 'Énfasis 01', element: 'span', attributes: {'class': 'bck-enfasis-1'}},
   {name: 'Énfasis 02', element: 'span', attributes: {'class': 'bck-enfasis-2'}},
   {name: 'Énfasis 03', element: 'span', attributes: {'class': 'bck-enfasis-3'}},
