@@ -1141,6 +1141,67 @@ body {
   color: #E03186;
 }
 
+/*--------------------------------------LISTAS ORDENADAS-------------------------------------*/
+
+/*Lista ordenada 1*/
+
+#actividad .content .cke_contents .bck-ol-1,
+#actividad .content .texto_curso .bck-ol-1,
+#actividad .content .workspace ul li .bck-ol-1 {
+    list-style-type: none;
+    counter-reset: bck-li-counter;
+    /*padding-left: 44px;*/
+    margin-bottom: 0px;
+}
+
+#actividad .content .cke_contents .bck-ol-1 li,
+#actividad .content .cke_contents .bck-ol-1 li,
+#actividad .content .texto_curso .bck-ol-1 li,
+#actividad .popover-content .bck-ol-1 li,
+#actividad .content .workspace ul li .bck-ol-1 li {
+    counter-increment: bck-li-counter;
+    /*padding-left: 0px;*/
+    position: relative;
+    /*z-index: 0;*/
+    /*font-weight: 700;*/
+    /*font-size: 2.2rem;*/
+}
+
+
+#actividad .content .cke_contents .bck-ol-1 li:before,
+#actividad .content .texto_curso .bck-ol-1 li:before,
+#actividad .popover-content .bck-ol-1 li:before,
+#actividad .content .workspace ul li .bck-ol-1 li:before {
+    content: counter(bck-li-counter) ".";
+    font-weight: 800;
+    position: absolute;
+    text-align: right;
+    color: #008DD1;
+    width: 31px;
+    margin-top: 0px;
+    /*left: -25px;*/
+    top: 0px;
+}
+
+/*-------------------------------------------CAJAS------------------------------------------*/
+
+/*Caja 1*/
+
+.bck-box-1 {
+    border-left: 7px solid #f7b492;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: rgb(242,245,230);
+    background: -moz-linear-gradient(180deg, rgba(242,245,230,1) 0%, rgba(238,238,221,1) 40%, rgba(248,237,218,1) 60%, rgba(248,237,220,1) 100%);
+    background: -webkit-linear-gradient(180deg, rgba(242,245,230,1) 0%, rgba(238,238,221,1) 40%, rgba(248,237,218,1) 60%, rgba(248,237,220,1) 100%);
+    background: linear-gradient(180deg, rgba(242,245,230,1) 0%, rgba(238,238,221,1) 40%, rgba(248,237,218,1) 60%, rgba(248,237,220,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f2f5e6",endColorstr="#f8eddc",GradientType=1);
+}
+
+.bck-box-1 .bck-content {
+    padding: 20px 10px;
+}
+
    /************************
    * CSS AÑADIDO POR HTML *
    ************************/
