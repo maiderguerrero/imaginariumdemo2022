@@ -1224,6 +1224,14 @@ body {
     font-size: 18px;
 }
 
+/*Tipo test*/
+
+.checkbox-option label.filter-label, 
+.checkbox-option label.filter-label-append, 
+.radio-option label.filter-label {
+    font-size: 18px;
+}
+
 
    /************************
    * CSS AÑADIDO POR HTML *
