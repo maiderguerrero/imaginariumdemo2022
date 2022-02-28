@@ -885,10 +885,223 @@ body #book-index #indice .col-main {
    * CSS AÑADIDO POR HTML *
    ************************/
 
+/*-------------------------------------------FUENTES-----------------------------------------*/
+
+@font-face {
+    font-family: 'Daytona Pro';
+    src: url('fonts/DaytonaPro-CondBold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Daytona Pro';
+    src: url('fonts/DaytonaPro-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Daytona Pro Primary';
+    src: url('fonts/DaytonaProPrimary-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Biko';
+    src: url('fonts/Biko.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Burst My Bubble';
+    src: url('fonts/BurstMyBubble.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Daytona Pro';
+    src: url('fonts/DaytonaPro-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AbcTeacher';
+    src: url('fonts/AbcTeacher.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CoopHeavy';
+    src: url('fonts/CoopHeavy.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Daytona Pro Primary';
+    src: url('fonts/DaytonaProPrimary-Cn.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Daytona Pro Primary';
+    src: url('fonts/DaytonaProPrimary-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HeinemannRomanSpecial';
+    src: url('fonts/HeinemannRomanSpecial-Rm.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kidprint MT Pro';
+    src: url('fonts/KidprintMTPro.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Daytona Pro Primary';
+    src: url('fonts/DaytonaProPrimary-SmBd.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Julius Primary Std';
+    src: url('fonts/JuliusPrimaryStd-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Daytona Pro Primary';
+    src: url('fonts/DaytonaProPrimary-Fat.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dreamland Std';
+    src: url('fonts/DreamlandStd.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Daytona Pro Primary';
+    src: url('fonts/DaytonaProPrimary-CnBold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GoodDogPlain';
+    src: url('fonts/GoodDogPlain.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nexa Slab Black Oblique';
+    src: url('fonts/NexaSlabBlackOblique.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Koorkin Pro';
+    src: url('fonts/KoorkinPro-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Daytona Pro Primary';
+    src: url('fonts/DaytonaProPrimary-CnSmBd.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lemonade ICG';
+    src: url('fonts/LemonadeICG.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Daytona Pro Primary';
+    src: url('fonts/DaytonaProPrimary-CnFat.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PearsonAngLib';
+    src: url('fonts/PearsonAngLib.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Daytona Pro Primary';
+    src: url('fonts/DaytonaProPrimary-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Daytona Pro Primary';
+    src: url('fonts/DaytonaProPrimary-CnLight.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Daytona Pro Primary';
+    src: url('fonts/DaytonaProPrimary-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ITC Avant Garde Gothic Std';
+    src: url('fonts/ITCAvantGardeStd-Md.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'VAG Rounded Std';
+    src: url('fonts/VAGRoundedStd-Black.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'VAG Rounded Std';
+    src: url('fonts/VAGRoundedStd-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
 /*---------------------------------------------GENERAL----------------------------------------*/
 
 body {
-    font: 400 18px 'Source Sans Pro',sans-serif;
+    font: 400 18px 'Daytona Pro Primary',sans-serif;
 }
 
 #actividad .content .header .chapter {
