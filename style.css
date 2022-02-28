@@ -891,6 +891,10 @@ body {
     font: 400 18px 'Source Sans Pro',sans-serif;
 }
 
+#actividad .content .header .chapter {
+  display: none;
+}
+
 /*-----------------------------------------TÍTULOS--------------------------------------------*/
 
 /*Título 1*/
