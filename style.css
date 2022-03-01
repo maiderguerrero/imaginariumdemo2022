@@ -1407,6 +1407,14 @@ img {
     transition: all ease-in-out .5s;
 }
 
+.popover-template .popover-content {
+    height: auto;
+    overflow-y: auto;
+    position: relative;
+    border: 5px solid #008dd1;
+    margin-top: -1px;
+}
+
 /*--------------------------------------AJUSTES ACTIVIDADES----------------------------------*/
 
 #actividad .workspace {
