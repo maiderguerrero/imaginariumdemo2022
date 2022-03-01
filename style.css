@@ -1267,7 +1267,7 @@ img {
     display: inline-block;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
-    border-radius: 10px 0px 10px 0px;
+    border-radius: 10px 0px;
     cursor: pointer;
     -webkit-box-shadow: 3px 3px 0 0 #e3e3e3;
     box-shadow: 3px 3px 0 0 #e3e3e3;
