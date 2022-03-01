@@ -1118,6 +1118,9 @@ body {
     padding-right: 30px;
 }
 
+img {
+  border-radius: 15px 0px;
+}
 
 /*imagen zoom*/
 
