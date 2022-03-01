@@ -1125,6 +1125,11 @@ body {
   padding: 0px;
 }
 
+.zoom_flag_img {
+    top: 5px;
+    right: 5px;
+}
+
 /*-----------------------------------------TÍTULOS--------------------------------------------*/
 
 /*Título 1*/
@@ -1226,12 +1231,21 @@ body {
     border-radius: 0px 20px;
 }
 
+.bck-box-2 img {
+    border-bottom-left-radius: 15px;
+}
+
 /*Caja 3*/
 
 .bck-box-3 {
     margin-bottom: 40px;
     border: 3px solid #FFCC00;
     border-radius: 20px 0px;
+}
+
+
+.bck-box-3 img {
+    border-bottom-right-radius: 15px;
 }
 
 
