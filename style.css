@@ -1192,10 +1192,19 @@ body {
     background: -webkit-linear-gradient(180deg, rgba(242,245,230,1) 0%, rgba(238,238,221,1) 40%, rgba(248,237,218,1) 60%, rgba(248,237,220,1) 100%);
     background: linear-gradient(180deg, rgba(242,245,230,1) 0%, rgba(238,238,221,1) 40%, rgba(248,237,218,1) 60%, rgba(248,237,220,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f2f5e6",endColorstr="#f8eddc",GradientType=1);
+    margin-bottom: 40px
 }
 
 .bck-box-1 .bck-content {
     padding: 20px 10px;
+}
+
+/*Caja 2*/
+
+.bck-box-2 {
+   margin-bottom: 40px;
+   border: 3px solid #FFCC00;
+   border-radius: 20px 0px;
 }
 
 
