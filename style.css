@@ -1206,6 +1206,28 @@ img {
     top: 0px;
 }
 
+/*--------------------------------------LISTAS DESORDENADAS--------------------------------*/
+
+/*Lista desordenada por defecto*/
+
+.foro_wiki_cke_text ul li:before, .texto_curso ul li:before, 
+.workspace:not(.test) ul li ul li:before, 
+.cke_contents ul li:before, 
+.preview ul li:before, .classify-item ul li:before, 
+.popover-template .popover-content ul li:before {
+    content: "";
+    height: 6px;
+    width: 6px;
+    background-color: #414141;
+    position: absolute;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    margin-top: 0.6em;
+    margin-left: -15px;
+}
+
+
 /*-------------------------------------------CAJAS------------------------------------------*/
 
 /*Caja 1*/
