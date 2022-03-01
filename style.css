@@ -1112,6 +1112,12 @@ body {
   display: none;
 }
 
+/*imagen zoom*/
+
+.bck-i-fullscreen-wrapper {
+  padding: 0px;
+}
+
 /*-----------------------------------------TÍTULOS--------------------------------------------*/
 
 /*Título 1*/
