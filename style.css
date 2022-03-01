@@ -1235,7 +1235,7 @@ img {
 }
 
 .bck-box-2 img {
-    border-bottom-left-radius: 15px;
+    border-radius: 0px 0px 0px 15px;
 }
 
 /*Caja 3*/
@@ -1248,7 +1248,7 @@ img {
 
 
 .bck-box-3 img {
-    border-bottom-right-radius: 15px;
+    border-radius: 0px 0px 15px 0px;
 }
 
 
