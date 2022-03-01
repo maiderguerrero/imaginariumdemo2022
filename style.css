@@ -1295,6 +1295,35 @@ img {
     width: 106.7%;
 }
 
+/*------------------------------------------------Iconos------------------------------------------*/
+
+/**Iconos**/
+.cke_contents .icon:before, 
+.item-container.icon:before {
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: auto 100%;
+       -moz-background-size: auto 100%;
+         -o-background-size: auto 100%;
+            background-size: auto 100%;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: top;
+    height: 40px;
+    width: 45px;
+    margin-top: 0px;
+}
+
+/*Icono cerradura*/
+
+.item-container .icon-cerradura:before {
+  background-image: url(images/icono_enparejas_negro_reporterosusa.png);
+    width: 18px;
+    height: 14px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
 /*Pop up de información*/
 
 .info-template.shown {
@@ -1418,6 +1447,7 @@ img {
     position: relative;
     border: 5px solid #008dd1;
     margin-top: -1px;
+    border-radius: 0px 0px 10px 10px;
 }
 
 /*--------------------------------------AJUSTES ACTIVIDADES----------------------------------*/
