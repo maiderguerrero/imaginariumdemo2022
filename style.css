@@ -1112,6 +1112,13 @@ body {
   display: none;
 }
 
+#actividad .class_slide {
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
 /*imagen zoom*/
 
 .bck-i-fullscreen-wrapper {
