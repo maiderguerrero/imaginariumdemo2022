@@ -1290,6 +1290,123 @@ img {
     padding: 20px 10px;
 }
 
+/*Pop up de información*/
+
+.info-template.shown {
+    background: #fff;
+    background: -moz-linear-gradient(-45deg,#fff 0,#eee 100%);
+    background: -webkit-linear-gradient(-45deg,#fff 0,#eee 100%);
+    background: -webkit-linear-gradient(315deg,#fff 0,#eee 100%);
+    background: -moz-linear-gradient(315deg,#fff 0,#eee 100%);
+    background: -o-linear-gradient(315deg,#fff 0,#eee 100%);
+    background: linear-gradient(135deg,#fff 0,#eee 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff',endColorstr='#eeeeee',GradientType=1);
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    -o-transform: translateX(0);
+    transform: translateX(0);
+    border: 5px solid #008dd1;
+    border-radius: 0px 0px 15px 15px;
+    padding-top: 10px;
+}
+
+.info-template .info-title.shown {
+    height: auto;
+    margin: 0 3px 12px 6px;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.info-template .info-title {
+    position: relative;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 0;
+    overflow: hidden;
+    color: #008dd1;
+    font-weight: bold;
+    -webkit-transition: all ease-in-out .5s;
+    -o-transition: all ease-in-out .5s;
+    -moz-transition: all ease-in-out .5s;
+    transition: all ease-in-out .5s;
+    cursor: pointer;
+}
+
+
+.info-template .info-icon {
+    position: absolute;
+    top: -12px;
+    left: -5px;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 30px;
+    height: 24px;
+    -webkit-border-radius: 6px 6px 0px 0px;
+    -moz-border-radius: 6px 6px 0px 0px;
+    border-radius: 6px 6px 0px 0px;
+    background: #008dd1;
+    color: #fff;
+    font-family: 'FontAwesome';
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.info-popover .popover-title, 
+.popover-template .popover-title {
+    display: block;
+    position: relative;
+    background: #008dd1;
+    padding-left: 46px;
+    color: #fff;
+    font-size: 2rem;
+    min-height: 35px;
+    padding-bottom: 0;
+    font-weight: bold;
+}
+
+.info-popover .popover-title:before, 
+.popover-template .popover-title:before {
+    content: '\f040';
+    position: absolute;
+    top: 5px;
+    left: 13px;
+    width: 22px;
+    height: 22px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    color: #ffffff;
+    font-family: 'FontAwesome';
+    font-size: 21px;
+    text-align: center;
+    line-height: 22px;
+    font-weight: 100;
+}
+
+.close-popover {
+    position: absolute;
+    top: 1px;
+    right: 4px;
+    width: 30px;
+    height: 30px;
+    outline: 0;
+    border: 0;
+    background: transparent;
+    color: #ffffff;
+    font-family: "FontAwesome";
+    text-align: center;
+    -webkit-transition: all ease-in-out .5s;
+    -o-transition: all ease-in-out .5s;
+    -moz-transition: all ease-in-out .5s;
+    transition: all ease-in-out .5s;
+}
+
 /*--------------------------------------AJUSTES ACTIVIDADES----------------------------------*/
 
 #actividad .workspace {
