@@ -1286,8 +1286,13 @@ img {
     margin-bottom: 40px
 }
 
-.bck-box-1 .bck-content {
-    padding: 20px 10px;
+
+/*Caja 5*/
+
+.bck-box-5 {
+    position: relative;
+    left: -11%;
+    width: 122.1%;
 }
 
 /*Pop up de información*/
