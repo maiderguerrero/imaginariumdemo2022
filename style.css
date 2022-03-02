@@ -1461,9 +1461,13 @@ img {
     position: relative;
     border: 5px solid #008dd1;
     margin-top: -1px;
-    border-radius: 0px 0px 10px 10px;
+    border-radius: 0px 0px 15px 15px;
     font-weight: 600;
     font-size: 23px;
+}
+
+.popover-template {
+    border-radius: 15px;
 }
 
 /*--------------------------------------AJUSTES ACTIVIDADES----------------------------------*/
