@@ -1317,12 +1317,14 @@ img {
 /*Icono cerradura*/
 
 .item-container .icon-cerradura:before {
-  background-image: url(images/icono_cerradura_pbr_imaginarium.png);
-    width: 18px;
-    height: 14px;
+    content: "";
+    background-image: url(images/icono_cerradura_pbr_imaginarium.png);
+    width: 25px;
+    height: 20px;
     margin-right: 5px;
-    margin-top: -5px;
-    /*padding: 20px;*/
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
 }
 
 /*Pop up de información*/
