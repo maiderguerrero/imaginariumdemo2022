@@ -1340,6 +1340,13 @@ img {
 /*Caja 10*/
 
 .bck-box-10 {
+    border-image-source: url(images/marco_caja10_pbr_imaginarium.png);
+    padding: 30px 50px;
+    border-image-width: 50px;
+    border-image-slice: 105 110;
+    border-image-repeat: round;
+    border-image-outset: 5 3;
+    border-bottom-style: solid;
    margin-bottom: 20px;
 }
 
