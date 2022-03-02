@@ -1307,6 +1307,7 @@ img {
     border: 3px solid #008DD1;
     border-radius: 0px 15px 15px 0px;
     padding: 20px;
+    margin-bottom: 20px;
 }
 
 /*Caja 7*/
@@ -1315,6 +1316,7 @@ img {
     border: 3px solid #FFCC00;
     border-radius: 0px 15px 15px 0px;
     padding: 20px;
+    margin-bottom: 20px;
 }
 
 /*Caja 8*/
@@ -1323,6 +1325,7 @@ img {
     border: 3px solid #95C11E;
     border-radius: 0px 15px 15px 0px;
     padding: 20px;
+    margin-bottom: 20px;
 }
 
 /*Caja 9*/
@@ -1331,12 +1334,13 @@ img {
     border: 3px solid #E7334C;
     border-radius: 0px 15px 15px 0px;
     padding: 20px;
+    margin-bottom: 20px;
 }
 
 /*Caja 10*/
 
 .bck-box-10 {
-   
+   margin-bottom: 20px;
 }
 
 /*------------------------------------------------Iconos------------------------------------------*/
