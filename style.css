@@ -1335,6 +1335,10 @@ img {
 
 /*Pop up de información*/
 
+.info-template {
+  width: 120px;
+}
+
 .info-template.shown {
     background: #fff;
     background: -moz-linear-gradient(-45deg,#fff 0,#eee 100%);
