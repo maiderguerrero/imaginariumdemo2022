@@ -1451,6 +1451,7 @@ img {
 }
 
 .popover-template .popover-content {
+    font-family: 'Lemonade ICG';
     height: auto;
     overflow-y: auto;
     position: relative;
