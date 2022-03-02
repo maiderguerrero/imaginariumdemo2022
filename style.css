@@ -1455,13 +1455,14 @@ img {
 }
 
 .popover-template .popover-content {
-    font-family: 'Lemonade ICG';
+    font-family: 'PearsonAngLib';
     height: auto;
     overflow-y: auto;
     position: relative;
     border: 5px solid #008dd1;
     margin-top: -1px;
     border-radius: 0px 0px 10px 10px;
+    font-weight: 600;
 }
 
 /*--------------------------------------AJUSTES ACTIVIDADES----------------------------------*/
