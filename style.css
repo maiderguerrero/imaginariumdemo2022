@@ -1118,6 +1118,12 @@ body {
     padding-right: 30px;
 }
 
+
+#actividad .pregunta .texto_curso {
+    font-size: 2rem;
+}
+
+
 img {
   border-radius: 15px 0px;
 }
