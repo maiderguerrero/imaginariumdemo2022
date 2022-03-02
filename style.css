@@ -1319,7 +1319,7 @@ img {
 .item-container .icon-cerradura:before {
     content: "";
     background-image: url(images/icono_cerradura_pbr_imaginarium.png);
-    width: 25px;
+    width: 15px;
     height: 20px;
     margin-right: 5px;
     background-size: contain;
