@@ -1309,6 +1309,36 @@ img {
     padding: 20px;
 }
 
+/*Caja 7*/
+
+.bck-box-7 {
+    border: 3px solid #FFCC00;
+    border-radius: 0px 15px 15px 0px;
+    padding: 20px;
+}
+
+/*Caja 8*/
+
+.bck-box-8 {
+    border: 3px solid #95C11E;
+    border-radius: 0px 15px 15px 0px;
+    padding: 20px;
+}
+
+/*Caja 9*/
+
+.bck-box-9 {
+    border: 3px solid #E7334C;
+    border-radius: 0px 15px 15px 0px;
+    padding: 20px;
+}
+
+/*Caja 10*/
+
+.bck-box-10 {
+   
+}
+
 /*------------------------------------------------Iconos------------------------------------------*/
 
 /**Iconos**/
