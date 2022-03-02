@@ -1317,12 +1317,12 @@ img {
 /*Icono cerradura*/
 
 .item-container .icon-cerradura:before {
-  background-image: url(images/icono_enparejas_negro_reporterosusa.png);
+  background-image: url(images/icono_cerradura_pbr_imaginarium.png);
     width: 18px;
     height: 14px;
     margin-right: 5px;
     margin-top: -5px;
-    padding: 20px;
+    /*padding: 20px;*/
 }
 
 /*Pop up de información*/
