@@ -1375,6 +1375,24 @@ img {
     border-bottom-right-radius: 32px;
 }
 
+/*Caja 12*/
+
+.bck-box-12 {
+    border-left: 7px solid #F2D28C;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: rgb(242,245,230);
+    background: -moz-linear-gradient(180deg, rgba(242,245,230,1) 0%, rgba(238,238,221,1) 40%, rgba(248,237,218,1) 60%, rgba(248,237,220,1) 100%);
+    background: -webkit-linear-gradient(180deg, rgba(242,245,230,1) 0%, rgba(238,238,221,1) 40%, rgba(248,237,218,1) 60%, rgba(248,237,220,1) 100%);
+    background: linear-gradient(180deg, rgba(242,245,230,1) 0%, rgba(238,238,221,1) 40%, rgba(248,237,218,1) 60%, rgba(248,237,220,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f2f5e6",endColorstr="#f8eddc",GradientType=1);
+    margin-bottom: 40px
+}
+
+.bck-box-1 .bck-content {
+    padding: 20px 10px;
+}
+
 
 /*------------------------------------------------Iconos------------------------------------------*/
 
