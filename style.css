@@ -1408,7 +1408,30 @@ img {
   border: 2px solid #FFCC00;
   -webkit-box-shadow: 5px 5px 0 0 #FFCC00;
   box-shadow: 5px 5px 0 0 #FFCC00;
+  margin-bottom: 25px;
+}
 
+/*Caja 14*/
+
+.bck-box-14 {
+  padding: 20px;
+  border-radius: 0px 15px 15px 0px;
+  border: 2px solid #BC90C1;
+  -webkit-box-shadow: 5px 5px 0 0 #BC90C1;
+  box-shadow: 5px 5px 0 0 #BC90C1;
+  margin-bottom: 25px;
+}
+
+
+/*Caja 15*/
+
+.bck-box-15 {
+  padding: 20px;
+  border-radius: 0px 15px 15px 0px;
+  border: 2px solid #008DD1;
+  -webkit-box-shadow: 5px 5px 0 0 #008DD1;
+  box-shadow: 5px 5px 0 0 #008DD1;
+  margin-bottom: 25px;
 }
 
 /*------------------------------------------------Iconos------------------------------------------*/
