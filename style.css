@@ -1212,6 +1212,13 @@ img {
     top: 0px;
 }
 
+/*Lista ordenada 1 en slide marcar palabras*/
+
+#actividad .content .markwords .bck-ol-1 li:before {
+  top: 5px;
+}
+
+
 /*--------------------------------------LISTAS DESORDENADAS--------------------------------*/
 
 /*Lista desordenada por defecto*/
