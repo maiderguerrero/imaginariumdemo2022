@@ -1400,6 +1400,16 @@ img {
     padding: 20px 10px;
 }
 
+/*Caja 13*/
+
+.bck-box-13 {
+  padding: 20px;
+  border-radius: 0px 15px 15px 0px;
+  border: 2px solid #FFCC00;
+  -webkit-box-shadow: 5px 5px 0 0 #FFCC00;
+  box-shadow: 5px 5px 0 0 #FFCC00;
+
+}
 
 /*------------------------------------------------Iconos------------------------------------------*/
 
