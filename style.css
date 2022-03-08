@@ -1554,8 +1554,25 @@ img {
 
 .bck-box-19 {
   padding: 20px;
-  border: 3px solid #008DD1;
-  margin-bottom: 20px;
+    border: 10px solid #008DD1;
+    margin-bottom: 20px;
+    border-left-width: 6px;
+    position: relative;
+    background-image: -webkit-radial-gradient(#d6d5d6 30%, transparent 20%), -webkit-radial-gradient(#cfcfc3 38%, transparent 24%);
+    background-image: -moz-radial-gradient(#d6d5d6 30%, transparent 20%), -moz-radial-gradient(#cfcfc3 38%, transparent 24%);
+    background-image: radial-gradient(#d6d5d6 30%, transparent 20%), radial-gradient(#cfcfc3 38%, transparent 24%);
+    background-position: 4px 1px, 4px 0px, 50% 0px;
+    background-repeat: repeat-y, repeat-y, repeat;
+    background-size: 30px 30px, 30px 30px, 30px 30px;
+}
+
+.bck-box-19 > .bck-title {
+    margin-left: -45px;
+    background-image: url(images/imagen_titulo_caja_19.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 50%;
+    margin-top: -46px;
 }
 
 
