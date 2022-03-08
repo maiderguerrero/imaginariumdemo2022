@@ -1556,7 +1556,6 @@ img {
   padding: 20px 20px 20px 45px;
     border: 10px solid #008DD1;
     margin-bottom: 20px;
-    border-left-width: 6px;
     position: relative;
     background-image: -webkit-radial-gradient(#d6d5d6 30%, transparent 20%), -webkit-radial-gradient(#cfcfc3 38%, transparent 24%);
     background-image: -moz-radial-gradient(#d6d5d6 30%, transparent 20%), -moz-radial-gradient(#cfcfc3 38%, transparent 24%);
