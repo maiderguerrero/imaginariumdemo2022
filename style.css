@@ -1192,6 +1192,15 @@ img {
     margin-right: 20px;
 }
 
+/*Énfasis 5*/
+
+.bck-enfasis-5 {
+  background-color: #0079B2;
+  border-radius: 10px;
+  padding: 5px 15px;
+  margin-right: 20px;
+}
+
 /*--------------------------------------LISTAS ORDENADAS-------------------------------------*/
 
 /*Lista ordenada 1*/
