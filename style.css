@@ -1571,11 +1571,11 @@ img {
     background-repeat: no-repeat;
     background-position: right;
     background-size: 50%;
-    margin-top: -66px;
+    margin-top: -48px;
 }
 
-.bck-box-19 > .bck-title {
-  padding-top: 30px;
+.bck-box-19 > .bck-content {
+  padding-top: 20px;
 }
 
 
