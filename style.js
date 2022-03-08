@@ -144,7 +144,10 @@ const ckeStyles = [
   {name: 'Énfasis 02', element: 'span', attributes: {'class': 'bck-enfasis-2'}},
   {name: 'Énfasis 03', element: 'span', attributes: {'class': 'bck-enfasis-3'}},
   {name: 'Énfasis 04', element: 'span', attributes: {'class': 'bck-enfasis-4'}},
-  {name: 'Énfasis 05', element: 'span', attributes: {'class': 'bck-enfasis-5'}}
+  {name: 'Énfasis 05', element: 'span', attributes: {'class': 'bck-enfasis-5'}},
+  {name: 'Énfasis 06', element: 'span', attributes: {'class': 'bck-enfasis-6'}},
+  {name: 'Énfasis 07', element: 'span', attributes: {'class': 'bck-enfasis-7'}},
+  {name: 'Énfasis 08', element: 'span', attributes: {'class': 'bck-enfasis-8'}}
 
 
   // Añadir elementos CKEditor aquí.
