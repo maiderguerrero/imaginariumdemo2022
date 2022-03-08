@@ -1563,6 +1563,7 @@ img {
     background-position: 4px 1px, 4px 0px, 50% 0px;
     background-repeat: repeat-y, repeat-y, repeat;
     background-size: 30px 30px, 30px 30px, 30px 30px;
+    margin-top: 35px;
 }
 
 .bck-box-19 > .bck-title {
@@ -1571,7 +1572,7 @@ img {
     background-repeat: no-repeat;
     background-position: right;
     background-size: 50%;
-    margin-top: -48px;
+    margin-top: -49px;
 }
 
 .bck-box-19 > .bck-content {
