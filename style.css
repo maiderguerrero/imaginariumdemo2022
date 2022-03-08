@@ -1517,7 +1517,7 @@ img {
 /*Caja 17*/
 
 .bck-box-17 {
-  
+  margin-bottom: 25px; 
 }
 
 .bck-box-17 .bck-title {
@@ -1529,7 +1529,7 @@ img {
   width: -ms-fit-content;
   width: -o-fit-content;
   border-radius: 15px 0px 0px 0px;
-  padding: 5px 20px 2px 23px;
+  padding: 5px 20px 0px 23px;
   font-weight: bold;
 }
 
