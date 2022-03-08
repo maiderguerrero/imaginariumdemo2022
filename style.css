@@ -1553,7 +1553,7 @@ img {
 /*Caja 19*/
 
 .bck-box-19 {
-  padding: 20px;
+  padding: 20px 20px 20px 45px;
     border: 10px solid #008DD1;
     margin-bottom: 20px;
     border-left-width: 6px;
@@ -1570,9 +1570,13 @@ img {
     margin-left: -45px;
     background-image: url(images/imagen_titulo_caja_19.png);
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: right;
     background-size: 50%;
-    margin-top: -46px;
+    margin-top: -48px;
+}
+
+.bck-box-19 > .bck-title {
+  padding-top: 20px;
 }
 
 
