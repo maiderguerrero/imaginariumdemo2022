@@ -1186,9 +1186,10 @@ img {
 /*Énfasis 4*/
 
 .bck-enfasis-4 {
-  border: 2px solid #008DD1;
-  border-radius: 15px;
-  padding: 10px 15px;
+    border: 2px solid #008DD1;
+    border-radius: 10px;
+    padding: 5px 15px;
+    margin-right: 20px;
 }
 
 /*--------------------------------------LISTAS ORDENADAS-------------------------------------*/
