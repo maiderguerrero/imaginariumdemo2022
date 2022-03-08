@@ -125,6 +125,9 @@ const ckeStyles = [
   {name: 'Caja 15', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-15'}},
   {name: 'Caja 16', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-16'}},
   {name: 'Caja 17', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-17'}},
+  {name: 'Caja 18', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-18'}},
+  {name: 'Caja 19', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-19'}},
+  {name: 'Caja 20', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-20'}},
 
   {name: 'Lista ordenada 01', element: 'ol', attributes: {'class': 'bck-ol-1'}},
   {name: 'Lista ordenada 02', element: 'ol', attributes: {'class': 'bck-ol-2'}},
