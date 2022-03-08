@@ -1203,6 +1203,39 @@ img {
   font-weight: bold;
 }
 
+/*Énfasis 6*/
+
+.bck-enfasis-6 {
+  background-color: #F7A600;
+  border-radius: 10px;
+  padding: 5px 15px;
+  margin-right: 20px;
+  color: #fff;
+  font-weight: bold;
+}
+
+/*Énfasis 7*/
+
+.bck-enfasis-7 {
+  background-color: #3C9E75;
+  border-radius: 10px;
+  padding: 5px 15px;
+  margin-right: 20px;
+  color: #fff;
+  font-weight: bold;
+}
+
+/*Énfasis 8*/
+
+.bck-enfasis-8 {
+  background-color: #E24F3E;
+  border-radius: 10px;
+  padding: 5px 15px;
+  margin-right: 20px;
+  color: #fff;
+  font-weight: bold;
+}
+
 /*--------------------------------------LISTAS ORDENADAS-------------------------------------*/
 
 /*Lista ordenada 1*/
