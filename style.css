@@ -1319,7 +1319,7 @@ img {
     margin-bottom: 40px
 }
 
-.bck-box-1 .bck-content {
+.bck-box-1 > .bck-content {
     padding: 20px 15px;
 }
 
@@ -1458,7 +1458,7 @@ img {
     margin-bottom: 40px
 }
 
-.bck-box-12 .bck-content {
+.bck-box-12 > .bck-content {
     padding: 20px 15px;
 }
 
@@ -1510,7 +1510,7 @@ img {
     margin-bottom: 40px
 }
 
-.bck-box-16 .bck-content {
+.bck-box-16 > .bck-content {
     padding: 20px 15px;
 }
 
@@ -1520,7 +1520,7 @@ img {
   margin-bottom: 25px; 
 }
 
-.bck-box-17 .bck-title {
+.bck-box-17 > .bck-title {
   background-color: #008DD1;
   color: #fff;
   width: fit-content;
@@ -1533,12 +1533,19 @@ img {
   font-weight: bold;
 }
 
-.bck-box-17 .bck-content {
+.bck-box-17 > .bck-content {
   border: 5px solid #008DD1;
   border-radius: 0px 15px;
   padding: 20px;
   webkit-box-shadow: 3px 14px 20px -10px #bfbfbf;
   box-shadow: 3px 14px 20px -10px #bfbfbf;
+}
+
+/*Caja 18*/
+
+.bck-box-18 {
+  padding: 20px;
+  background-color: #D8E7F8;
 }
 
 /*------------------------------------------------Iconos------------------------------------------*/
