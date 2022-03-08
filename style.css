@@ -1514,6 +1514,30 @@ img {
     padding: 20px 15px;
 }
 
+/*Caja 17*/
+
+.bck-box-17 {
+  -webkit-box-shadow: 2px 2px 10px 0 #BFBFBF;
+  box-shadow: 2px 2px 10px 0 #BFBFBF;
+}
+
+.bck-box-17 .bck-title {
+  background-color: #008DD1;
+  color: #fff;
+  width: fit-content;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: -ms-fit-content;
+  width: -o-fit-content;
+  border-radius: 15px 0px 0px 0px;
+}
+
+.bck-box-17 .bck-content {
+  border: 3px solid #008DD1;
+  border-radius: 0px 15px;
+  padding: 20px;
+}
+
 /*------------------------------------------------Iconos------------------------------------------*/
 
 /**Iconos**/
