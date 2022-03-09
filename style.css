@@ -119,7 +119,7 @@ body #book-index #indice .col-main {
     @media (hover: hover) {
       .go-back button:hover,
       #layout-container div.go-back button:hover {
-        color: #ce243d; } }
+        color: #223c3f; } }
     .go-back button:active,
     #layout-container div.go-back button:active {
       box-shadow: none;
@@ -147,7 +147,8 @@ body #book-index #indice .col-main {
   #layout-container span {
     font-weight: 300; }
   #layout-container .section-title-1 {
-    font-size: 60px; }
+    font-size: 60px;
+    margin-top: 50px; }
   #layout-container .section-title-4 {
     font-size: 18px; }
   #layout-container #main-screen {
@@ -866,7 +867,7 @@ body #book-index #indice .col-main {
     display: flex;
     flex: 1; }
   #layout-container:before {
-    background-color: #223c3f77;
+    background-color: #223c3f57;
     bottom: 0;
     content: '';
     display: block;
