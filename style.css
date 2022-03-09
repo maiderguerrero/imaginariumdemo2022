@@ -119,11 +119,11 @@ body #book-index #indice .col-main {
     @media (hover: hover) {
       .go-back button:hover,
       #layout-container div.go-back button:hover {
-        color: #223c3f; } }
+        color: #f5a500; } }
     .go-back button:active,
     #layout-container div.go-back button:active {
       box-shadow: none;
-      color: #ce243d; }
+      color: #f5a500; }
 
 #layout-container {
   align-items: stretch;
@@ -456,7 +456,7 @@ body #book-index #indice .col-main {
           user-select: none; }
         #layout-container div[id*="section-screen"] .section .section-data .section-title {
           align-items: center;
-          background-color: #0079B2;
+          background-color: #F5A500;
           background-image: none;
           padding: 20px 10px;
           position: relative; }
@@ -475,7 +475,7 @@ body #book-index #indice .col-main {
             transform: rotate(45deg);
             width: 24px;
             z-index: 2;
-            background-color: #0079B2 }
+            background-color: #F5A500; }
             @media (max-width: 1024px) {
               #layout-container div[id*="section-screen"] .section .section-data .section-title:before {
                 top: 16%; } }
@@ -695,7 +695,7 @@ body #book-index #indice .col-main {
                   content: '';
                   height: 100%;
                   width: 20px;
-                  background-color: #0079B2; }
+                  background-color: #f5a500; }
                 #layout-container div[id*="section-screen"] .section .section-content .tabs-content .content .unit-content .content-item:active,
                 #layout-container div[id*="section-screen"] .section .section-content .tabs-content .content .resources-content .content-item:active,
                 #layout-container div[id*="section-screen"] .section .section-content .tabs-content .content .no-resources .content-item:active {
