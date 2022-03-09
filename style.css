@@ -1162,7 +1162,7 @@ img {
     border-color: transparent;
 }
 
-
+.btn-primary,
 .btn-primary[disabled], 
 .btn-primary[disabled]:focus {
     color: #fff;
@@ -1176,6 +1176,24 @@ img {
     background-color: #3C9E75;
     border-color: transparent;
     border-radius: 10px 0px;
+}
+
+
+.btn-solution {
+    color: #fff;
+    background-color: #008DD1;
+    border-color: transparent;
+    border-radius: 10px 0px;
+}
+
+.btn-solution:hover, 
+.btn-solution:focus, 
+.btn-solution:active, 
+.btn-next:hover, 
+.btn-next:focus, 
+.btn-next:active, 
+.open .dropdown-toggle.btn-solution {
+  background-color: #0079B2;
 }
 
 /*-----------------------------------------TÍTULOS--------------------------------------------*/
