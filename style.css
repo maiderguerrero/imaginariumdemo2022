@@ -693,7 +693,7 @@ body #book-index #indice .col-main {
                   content: '';
                   height: 100%;
                   width: 20px;
-                  background-color: #FFCC00; }
+                  background-color: #0079B2; }
                 #layout-container div[id*="section-screen"] .section .section-content .tabs-content .content .unit-content .content-item:active,
                 #layout-container div[id*="section-screen"] .section .section-content .tabs-content .content .resources-content .content-item:active,
                 #layout-container div[id*="section-screen"] .section .section-content .tabs-content .content .no-resources .content-item:active {
