@@ -1143,6 +1143,41 @@ img {
     right: 5px;
 }
 
+/*Botonera*/
+
+.btn-danger {
+    color: #fff;
+    background-color: #E24F3E;
+    border-color: transparent;
+    border-radius: 10px 0px;
+}
+
+.btn-danger:hover, 
+.btn-danger:focus, 
+.btn-danger:active, 
+.btn-danger.active, 
+.open .dropdown-toggle.btn-danger {
+    color: #fff;
+    background-color: #C04534;
+    border-color: transparent;
+}
+
+
+.btn-primary[disabled], 
+.btn-primary[disabled]:focus {
+    color: #fff;
+    background-color: #3C9E75;
+    border-color: transparent;
+    border-radius: 10px 0px;
+}
+
+.btn-save[disabled], 
+.btn-save[disabled]:focus {
+    background-color: #3C9E75;
+    border-color: transparent;
+    border-radius: 10px 0px;
+}
+
 /*-----------------------------------------TÍTULOS--------------------------------------------*/
 
 /*Título 1*/
