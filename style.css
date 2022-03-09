@@ -1580,6 +1580,15 @@ img {
 }
 
 
+/*Caja 20*/
+
+.bck-box-20 {
+  background-image: url(images/marco_caja20_pbr_imaginarium.png);
+  background-repeat: no-repeat;
+  padding: 20px;
+}
+
+
 /*------------------------------------------------Iconos------------------------------------------*/
 
 /**Iconos**/
