@@ -24,15 +24,16 @@
 
 body:not(.isTablet) #book-index #indice .units ul#list-units li:not(.disabled).active a,
 body #book-index #indice .units ul#list-units li:not(.disabled).active a {
-  background: #a2041b; }
+  background: #154b5c; }
 
 body:not(.isTablet) #book-index #indice .units ul#list-units li:not(.disabled):not(.active) a:hover,
 body #book-index #indice .units ul#list-units li:not(.disabled):not(.active) a:hover {
   background: #ce243d; }
 
 body #book-index #indice .col-main {
-  background-image: linear-gradient(to right, #a2041b, #fa455f);
-  opacity: 1; }
+  background-image: none;
+  opacity: 1;
+  background-color: #154b5c; }
   body #book-index #indice .col-main li.current a,
   body #book-index #indice .col-main li a:hover {
     color: #ffffff; }
