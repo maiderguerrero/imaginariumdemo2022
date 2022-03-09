@@ -1589,11 +1589,11 @@ img {
 
 
 .bck-box-20 > .bck-title {
-    padding: 20px;
+    padding: 40px 20px 0px 30px;
 }
 
 .bck-box-20 > .bck-content {
-  padding-top: 20px;
+  padding: 20px;
 }
 
 
