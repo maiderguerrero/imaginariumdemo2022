@@ -567,7 +567,7 @@ body #book-index #indice .col-main {
             #layout-container div[id*="section-screen"] .section .section-content .tabs .tab.active {
               background-color: transparent; }
             #layout-container div[id*="section-screen"] .section .section-content .tabs .tab:not(.active):hover [class*="section-title-"] {
-              color: #a2041b; }
+              color: #0079b2; }
             @media (max-width: 1024px) {
               #layout-container div[id*="section-screen"] .section .section-content .tabs .tab [class*="section-title-"] {
                 font-size: 16px; } }
@@ -704,7 +704,7 @@ body #book-index #indice .col-main {
                   #layout-container div[id*="section-screen"] .section .section-content .tabs-content .content .resources-content .content-item:hover,
                   #layout-container div[id*="section-screen"] .section .section-content .tabs-content .content .no-resources .content-item:hover {
                     background-color: #f5e9b9;
-                    color: #FFCC00; } }
+                    color: #f8a602; } }
                 @media (max-height: 375px), (max-width: 476px) {
                   #layout-container div[id*="section-screen"] .section .section-content .tabs-content .content .unit-content .content-item,
                   #layout-container div[id*="section-screen"] .section .section-content .tabs-content .content .resources-content .content-item,
