@@ -1113,13 +1113,17 @@ body {
     font: 400 20px 'Daytona Pro Primary',sans-serif;
 }
 
+#actividad .content .header {
+  border-bottom: none;
+}
+
 #actividad .content .header .chapter {
   display: none;
 }
 
 #actividad .class_slide {
     padding-bottom: 20px;
-    padding-left: 30px;
+    padding-left: 40px;
     padding-right: 30px;
 }
 
@@ -1228,6 +1232,14 @@ img {
 
 /*-----------------------------------------TÍTULOS--------------------------------------------*/
 
+/*Título slide*/
+
+#actividad .content .header .title h3 {
+    font-size: 2.6rem;
+    font-weight: bold;
+}
+
+
 /*Título 1*/
 
 .bck-title-1 {
@@ -1256,6 +1268,7 @@ img {
     margin-right: 10px;
     -webkit-box-shadow: 3px 3px 0 0 #ffcc00;
     box-shadow: 3px 3px 0 0 #ffcc00;
+    margin-bottom: 10px;
 }
 
 /*Énfasis 2*/
