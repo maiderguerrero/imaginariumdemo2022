@@ -1784,6 +1784,13 @@ img {
 
 /*Caja 23*/
 
+.bck-box.bck-box-23.center {
+    background: #008DD1;
+    color: #fff;
+    padding: 20px;
+    width: fit-content;
+}
+
 /*------------------------------------------------Iconos------------------------------------------*/
 
 /**Iconos**/
