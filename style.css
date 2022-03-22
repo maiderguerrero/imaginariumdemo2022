@@ -1137,6 +1137,11 @@ img {
   border-radius: 15px 0px;
 }
 
+/*alto de los videos*/
+.bck-video-player {
+    height: auto;
+}
+
 /*imagen zoom*/
 
 .bck-i-fullscreen-wrapper {
