@@ -1439,7 +1439,7 @@ img {
 
 /*Lista desordenada 1*/
 
-.bck-ul-1 li:before{
+ul.bck-ul-1 li:before{
     content: "";
     background-image: url(images/icono_cerradura_listadesordenada1_pbr_imaginarium.png);
     width: 10px;
