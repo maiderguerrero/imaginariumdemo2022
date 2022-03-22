@@ -1731,6 +1731,41 @@ img {
   padding: 20px;
 }
 
+/*Caja 21*/
+
+.bck-box-21 {
+     margin: 15px 0px;
+}
+
+.bck-box-21 > .bck-title {
+    transform: rotate(180deg);
+    white-space: nowrap;
+    background-color: #0079B2;
+    color: #fff;
+    padding: 5px 10px;
+    position: absolute;
+    min-height: 150px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    writing-mode: vertical-rl;
+}
+
+.bck-box-21 > .bck-content {
+    background-color: #008DD1;
+    color: #fff;
+    padding: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    min-height: 150px;
+    width: 94%;
+    margin-left: 51px;
+}
+
+
+/*Caja 22*/
+
+/*Caja 23*/
 
 /*------------------------------------------------Iconos------------------------------------------*/
 
