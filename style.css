@@ -1765,6 +1765,23 @@ img {
 
 /*Caja 22*/
 
+.bck-box-22 {
+     width: fit-content;
+    transform: rotate(180deg);
+    white-space: nowrap;
+    background-color: #008DD1;
+    color: #fff;
+    padding: 20px 5px;
+    position: absolute;
+    left: -40px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    writing-mode: vertical-rl;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
 /*Caja 23*/
 
 /*------------------------------------------------Iconos------------------------------------------*/
