@@ -129,19 +129,15 @@ const ckeStyles = [
   {name: 'Caja 22', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-22'}},
   {name: 'Caja 23', type: 'widget', widget: 'blink_box', attributes: {'class': 'bck-box-23'}},
 
-  {name: 'Lista ordenada 01', element: 'ol', attributes: {'class': 'bck-ol-1'}},
-  {name: 'Lista ordenada 02', element: 'ol', attributes: {'class': 'bck-ol-2'}},
-  {name: 'Lista ordenada 03', element: 'ol', attributes: {'class': 'bck-ol-3'}},
-  {name: 'Lista ordenada 04', element: 'ol', attributes: {'class': 'bck-ol-4'}},
-  {name: 'Lista ordenada 05', element: 'ol', attributes: {'class': 'bck-ol-5'}},
+  {name: 'Lista Ordenada 01', element: 'ol', attributes: {'class': 'bck-ol-1'}},
+  {name: 'Lista Ordenada 02', element: 'ol', attributes: {'class': 'bck-ol-2'}},
+  {name: 'Lista Ordenada 03', element: 'ol', attributes: {'class': 'bck-ol-3'}},
+  {name: 'Lista Ordenada 04', element: 'ol', attributes: {'class': 'bck-ol-4'}},
+  {name: 'Lista Ordenada 05', element: 'ol', attributes: {'class': 'bck-ol-5'}},
 
-  {name: 'Lista desordenada 01', element: 'ul', attributes: {'class': 'bck-ul-1'}},
-  {name: 'Lista desordenada 02', element: 'ul', attributes: {'class': 'bck-ul-2'}},
-  {name: 'Lista desordenada 03', element: 'ul', attributes: {'class': 'bck-ul-3'}},
-  {name: 'Lista desordenada 04', element: 'ul', attributes: {'class': 'bck-ul-4'}},
-  {name: 'Lista desordenada 05', element: 'ul', attributes: {'class': 'bck-ul-5'}},
+  {name: 'Lista Desordenada 01', element: 'ul', attributes: {'class': 'bck-ul-1'}},
 
-  { name: 'Icono Cerradura', element: 'span', attributes: { 'class': 'icon icon-cerradura' } },
+  {name: 'Icono Cerradura', element: 'span', attributes: { 'class': 'icon icon-cerradura' } },
 
   {name: 'Énfasis 01', element: 'span', attributes: {'class': 'bck-enfasis-1'}},
   {name: 'Énfasis 02', element: 'span', attributes: {'class': 'bck-enfasis-2'}},
