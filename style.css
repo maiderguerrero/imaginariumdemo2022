@@ -1142,6 +1142,16 @@ img {
     height: auto;
 }
 
+/*icono video*/
+#actividad .player.video{
+    background-image: url(images/icon_video_pbr_imaginarium.png);
+    background-size: cover;
+    background-color: transparent;
+    height: 45px !important;
+    width: 45px;
+    margin: 0px;
+}
+
 /*imagen zoom*/
 
 .bck-i-fullscreen-wrapper {
