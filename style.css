@@ -1437,6 +1437,21 @@ img {
     margin-left: -15px;
 }
 
+/*Lista desordenada 1*/
+
+.bck-ul-1 li:before{
+    content: "";
+    background-image: url(images/icono_cerradura_listadesordenada1_pbr_imaginarium.png);
+    width: 10px;
+    height: 16px;
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 0px;
+    background-color: transparent;
+    margin-top: 5px;
+}
+
 
 /*-------------------------------------------CAJAS------------------------------------------*/
 
