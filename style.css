@@ -1113,6 +1113,7 @@ body {
     font: 400 20px 'Daytona Pro Primary',sans-serif;
 }
 
+
 #actividad .content .header {
   border-bottom: none;
 }
@@ -1151,6 +1152,25 @@ img {
     width: 45px;
     margin: 0px;
 }
+
+
+/*Icono audio*/
+
+img.title-logo {
+    display: none;
+}
+
+#actividad .mindfulness .player.audio {
+    height: 77px !important;
+    width: 77px;
+    background-image: url(images/icon_mindfulness_pbr_imaginarium.png);
+    background-position: center;
+    margin: 0px;
+    display: inline-block;
+    background-color: transparent;
+    vertical-align: middle;
+}
+
 
 /*imagen zoom*/
 
